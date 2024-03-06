@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmldldldl0309)](https://github.com/anuraghazra/github-readme-stats)
 ![Sangheon's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmldldldl0309&hide=contribs,prs&show_icons=true&theme=catppuccin_mocha)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=Review)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=rmldldldl0309/Review)](https://github.com/anuraghazra/github-readme-stats)
 <img src="https://capsule-render.vercel.app/api?type=rect&color=03a6ff&height=300&section=header&text=&fontSize=90" />
 
 
