@@ -1,6 +1,10 @@
 ## Welcome to rmldldldl0309's GitHub 👋
-<div style="background-color: rgba(238, 238, 238, 0.5); padding: 10px; border-radius: 5px;"/>
+
+<div style="background-color: rgba(238, 238, 238, 0.5); padding: 10px; border-radius: 5px;">
+
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to&fontAlign=30&fontSize=30&desc=rmldldldl0309's%20GitHub&descAlign=60&descAlignY=50&theme=onedark&animation=twinkling)
+
+</div>
 
 ### 🛠 Tech Stack
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -23,10 +27,7 @@
 
 ### My Project
 [나의여행일기](https://classic-coaster-e95.notion.site/e004e0cde0e54b819a259e91e8b33860?pvs=4) - 여행 일정을 간편하게 정리하고 추억을 공유할 수 있는 웹사이트
+
 ### Study
 #### Review
 #### Til
-
-</div>
-
-
