@@ -1,6 +1,6 @@
 ## Welcome to rmldldldl0309's GitHub 👋
 
-![reversal](https://capsule-render.vercel.app/api?type=Rounded&text=Welcome%20to&fontAlign=30&fontSize=30&desc=rmldldldl0309's%20GitHub&descAlign=60&descAlignY=50&theme=onedark&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=soft&text=Welcome%20to&fontAlign=30&fontSize=30&desc=rmldldldl0309's%20GitHub&descAlign=60&descAlignY=50&theme=onedark&animation=twinkling)
 
 ### 🛠 Tech Stack
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
@@ -27,3 +27,5 @@
 ### 📚 Study
 - [Review](https://github.com/rmldldldl0309/Review) - 강의나 수업내용을 기록하는 공간
 - [Til](https://github.com/rmldldldl0309/KimSH-TIL) - 새로운 것들을 알아갈때 기록하는 공간
+
+![footer](https://capsule-render.vercel.app/api?type=soft)
