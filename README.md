@@ -30,4 +30,4 @@
 
 ### 📚 Study
 - [Review](https://github.com/rmldldldl0309/Review) - 강의나 수업내용을 기록하는 공간
-- [Til]([https://classic-coaster-e95.notion.site/e004e0cde0e54b819a259e91e8b33860?pvs=4](https://github.com/rmldldldl0309/KimSH-TIL)) - 새로운 것들을 알아갈때 기록하는 공간
+- [Til](https://github.com/rmldldldl0309/KimSH-TIL) - 새로운 것들을 알아갈때 기록하는 공간
