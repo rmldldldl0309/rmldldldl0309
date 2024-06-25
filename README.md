@@ -17,17 +17,17 @@
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### Tools
+### 🧰 Tools
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-### Contact
+### 📧 Contact
 ![Gmail](https://img.shields.io/badge/kimsangheon0309@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
-### My Project
+### 💼 My Project
 - [나의여행일기](https://classic-coaster-e95.notion.site/e004e0cde0e54b819a259e91e8b33860?pvs=4) - 여행 일정을 간편하게 정리하고 추억을 공유할 수 있는 웹사이트
 
-### Study
-#### Review
-#### Til
+### 📚 Study
+- [Review](https://github.com/rmldldldl0309/Review) - 강의나 수업내용을 기록하는 공간
+- [Til]([https://classic-coaster-e95.notion.site/e004e0cde0e54b819a259e91e8b33860?pvs=4](https://github.com/rmldldldl0309/KimSH-TIL)) - 새로운 것들을 알아갈때 기록하는 공간
