@@ -16,3 +16,12 @@ https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=j
 <br/>
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
+# GitHub Profile
+
+## Welcome to My Profile!
+
+![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+
+I am passionate about developing skills for Amazon Alexa and enjoy working on various voice-enabled projects.
+
