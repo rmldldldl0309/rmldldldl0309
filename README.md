@@ -1,5 +1,5 @@
 ## Welcome to rmldldldl0309's GitHub 👋
-<div style="background-color: rgba(238, 238, 238, 0.5); padding: 10px; border-radius: 5px;">
+<div style="background-color: rgba(238, 238, 238, 0.5); padding: 10px; border-radius: 5px;"/>
 ![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome%20to&fontAlign=30&fontSize=30&desc=rmldldldl0309's%20GitHub&descAlign=60&descAlignY=50&theme=onedark&animation=twinkling)
 
 ### 🛠 Tech Stack
