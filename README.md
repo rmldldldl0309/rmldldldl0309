@@ -20,7 +20,7 @@
 ![Gmail](https://img.shields.io/badge/kimsangheon0309@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 ### My Project
-
+[나의여행일기](https://classic-coaster-e95.notion.site/e004e0cde0e54b819a259e91e8b33860?pvs=4).
 ### Study
 #### Review
 #### Til
