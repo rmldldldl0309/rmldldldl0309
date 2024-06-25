@@ -1,7 +1,7 @@
 ## Welcome to rmldldldl0309's GitHub 👋
 
 ![header](https://capsule-render.vercel.app/api?type=rect&color=#4168el&height=300&section=header&text=capsule%20render&fontSize=90)
-![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome&fontAlign=30&fontSize=30&desc=to rmldldldl0309's GitHub&descAlign=60&descAlignY=50&theme=tokyonight)
+![reversal](https://capsule-render.vercel.app/api?type=rect&text=Welcome to&fontAlign=30&fontSize=30&desc=to rmldldldl0309's GitHub&descAlign=60&descAlignY=50&theme=tokyonight)
 
 ### 🛠 Tech Stack
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
