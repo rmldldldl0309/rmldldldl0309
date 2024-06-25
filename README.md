@@ -1,10 +1,6 @@
 ## Hi there 👋
 ## rmldldldl0309's GitHub 👋
 
-<!--
-**rmldldldl0309/rmldldldl0309** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-@@ -17,9 +17,10 @@ Here are some ideas to get you started:
-
 ### 🛠 Languages and Tools
 
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/> </t>
