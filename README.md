@@ -27,5 +27,3 @@
 ### 📚 Study
 - [Review](https://github.com/rmldldldl0309/Review) - 강의나 수업내용을 기록하는 공간
 - [Til](https://github.com/rmldldldl0309/KimSH-TIL) - 새로운 것들을 알아갈때 기록하는 공간
-
-![footer](https://capsule-render.vercel.app/api?type=soft&theme=onedark)
